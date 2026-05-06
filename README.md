@@ -6,7 +6,7 @@
 
 ## 📋 Sobre o Projeto
 
-Biblioteca desenvolvida em **C#** contendo as regras de negócio para o cálculo de médias semestral e final de alunos de instituições de ensino superior (IES) e médio/técnico (IEMT).
+Biblioteca desenvolvida em **C#** contendo as regras de negócio para o cálculo de médias semestral e final de alunos de instituições de ensino superior (IES) e médio.
 
 Este projeto faz parte da **Atividade II** das disciplinas de ESWA e POO-C# ministradas pelo Prof. Marcos M. Chaves.
 

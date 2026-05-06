@@ -100,7 +100,7 @@ dotnet add package ESWA07CalculadoraDeMedias
 
 ---
 
-## 👥 Equipe 07
+## 👥 Equipe 04
 
 | Aluno | RA |
 |---|---|

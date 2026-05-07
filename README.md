@@ -1,4 +1,4 @@
-# ESWA07CalculadoraDeMedias
+# ESWA04CalculadoraDeMedias
 
 > Biblioteca de Classes — Engenharia de Software Ágil Aplicada | Atividade II | Equipe 04
 

@@ -73,7 +73,7 @@ namespace ESWA07CalculadoraDeMedias.Tests
         [InlineData(10.0, 10.0, 10.0, 10.0)]
         [InlineData(0.0, 0.0, 0.0, 0.0)]
         [InlineData(7.0, 7.0, 7.0, 7.0)]   // limiar: exatamente 7,0
-        [InlineData(6.0, 8.0, 5.0, 6.9)]   // (24+32+10)/10 = 6,6 → 6,6; testar arredondamento
+        [InlineData(6.0, 8.0, 5.0, 6.6)]   // (24+32+10)/10 = 6,6 → 6,6; testar arredondamento
         public void TestingGradeCalculator_CalculateSemestralAverage_CorrectResult(
             double np1, double np2, double pim, double expected)
         {

@@ -15,7 +15,7 @@ Este projeto faz parte da **Atividade II** das disciplinas de ESWA e POO-C# mini
 ## 🏗️ Estrutura do Projeto
 
 ```
-ESWA07CalculadoraDeMedias/
+ESWA04CalculadoraDeMedias/
 ├── OOPFoundation/
 │   ├── IDoubleValidation.cs       # Interface de validação numérica
 │   ├── ADoubleValidation.cs       # Classe abstrata com limites
@@ -86,7 +86,7 @@ Framework: **xUnit**
 A biblioteca está disponível como pacote NuGet:
 
 ```
-dotnet add package ESWA07CalculadoraDeMedias
+dotnet add package ESWA04CalculadoraDeMedias
 ```
 
 ---
@@ -105,7 +105,7 @@ dotnet add package ESWA07CalculadoraDeMedias
 | Aluno | RA |
 |---|---|
 | Marcos Ferreira dos Saantos Junior | F3616F2|
-| Cauã Santos Aguirre | 000002 |
+| Cauã Santos Aguirre | R6826B0 |
 | Eduardo Matheus Barboza de Medeiros| H659558 |
 
 
